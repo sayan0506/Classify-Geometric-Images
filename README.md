@@ -23,7 +23,10 @@ Examples of geometric image data can be shown below. Dataset path in the drive p
 
 ![img3](https://github.com/sayan0506/Classify-Geometric-Images/blob/main/images/demo_prediction.PNG)
 
-## Notebook
+## **Notebook**
 
 All the study and analysis regarding the entire project for geometric image classification can be found from the **[colab link](https://drive.google.com/file/d/19XZLQcuosnp5f0RS7u_j19ZUv3eb8-9B/view?usp=sharing)**
 
+## **References**
+
+All the references are taken from the given drive link, and also from vision-api repos(Potato, Corn Notebook), Face Recognition.
