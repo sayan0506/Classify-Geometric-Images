@@ -11,4 +11,6 @@ All the dataset, configuration files, results, datasets, augmentation datasets c
 
 ## **Dataset**
 
-Examples of geometric image data can be shown below. Dataset path in the drive project link - "C:\Users\Sayan Hazra\Downloads\Geometric Image Classification\Image_2\Input\Dataset".
+Examples of geometric image data can be shown below. Dataset path in the drive project link - **"C:\Users\Sayan Hazra\Downloads\Geometric Image Classification\Image_2\Input\Dataset".**
+
+
