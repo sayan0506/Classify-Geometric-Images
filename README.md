@@ -19,4 +19,9 @@ Examples of geometric image data can be shown below. Dataset path in the drive p
 
 ![img2](https://github.com/sayan0506/Classify-Geometric-Images/blob/main/images/evaluation_result.PNG)
 
+## **Demo Prediction**
+
+![img3](https://github.com/sayan0506/Classify-Geometric-Images/blob/main/images/demo_prediction.PNG)
+
+
 
